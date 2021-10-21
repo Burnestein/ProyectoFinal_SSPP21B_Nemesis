@@ -23,6 +23,7 @@ namespace ProyectoFinal_SSPP21B_Nemesis
 
             VentanaPF = new MenuPrincipal();
             VentanaPF.Show();
+            //Hide();
         }
     }
 }
